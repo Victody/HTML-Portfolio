@@ -55,6 +55,9 @@ body {
 }
 
 .apresentacao__content__links__link {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid #22D4FD;
     text-decoration: none;
     color: #f6f6f6;
@@ -65,5 +68,9 @@ body {
     font-size: 24px;
     border-radius: 8px;
     padding-top: 21.5px 0 21.5px 0;
+}
 
+.apresentacao__content__links__link:hover {
+    background-color: #272727;
+    font-style: italic;
 }
