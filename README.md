@@ -2,7 +2,10 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![site](https://github.com/Victody/HTML-Portfolio/assets/22774747/aff03877-462a-4f84-ab2b-b2e8c9b548f2)
+
+<div align="center">
+<img src="https://github.com/Victody/HTML-Portfolio/blob/main/images/site.png" width="700px" />
+</div>
 
 ## Ferramentas utilizadas:
 
