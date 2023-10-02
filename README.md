@@ -3,9 +3,8 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 
-<div align="center">
-<img src="https://github.com/Victody/HTML-Portfolio/blob/main/images/site.png" width="700px" />
-</div>
+![site](https://github.com/Victody/HTML-Portfolio/assets/22774747/97b5d609-341b-4192-acb4-fd13c5465776)
+
 
 ## Ferramentas utilizadas:
 
