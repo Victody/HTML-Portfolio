@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]
+<img src="/HTML-Portfolio/images/site.png">
 
 ## Ferramentas utilizadas:
 
